@@ -1,0 +1,17 @@
+[
+  {
+    "image_banner": "banner1.png",
+    "id_category": "neon",
+    "is_vip":false
+  },
+  {
+    "image_banner": "banner2.png",
+    "id_category": "",
+    "is_vip":true
+  },
+  {
+    "image_banner": "banner3.png",
+    "id_category": "aerial",
+    "is_vip":false
+  }
+]
