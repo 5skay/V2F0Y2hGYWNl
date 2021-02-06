@@ -1,60 +1,57 @@
 [
   {
-    "thumb": "Frame195.png",
-    "image": "Frame195.png",
+    "thumb": "blue15.png",
+    "image": "blue15.png",
     "isVip": false
   },
   {
-    "thumb": "Frame226.png",
-    "image": "Frame226.png",
+    "thumb": "pink28.png",
+    "image": "pink28.png",
     "isVip": false
   },
   {
-    "thumb": "Frame163.png",
-    "image": "Frame163.png",
+    "thumb": "astronaut2.png",
+    "image": "astronaut2.png",
     "isVip": false
   },
   {
-    "thumb": "Frame184.png",
-    "image": "Frame184.png",
+    "thumb": "fantasyplanet12.png",
+    "image": "fantasyplanet12.png",
     "isVip": false
-  },{
-      "thumb": "Frame223.png",
-      "image": "Frame223.png",
-      "isVip": false
-    },
-    {
-      "thumb": "Frame295.png",
-      "image": "Frame295.png",
-      "isVip": false
-    },
-    {
-      "thumb": "Frame200.png",
-      "image": "Frame200.png",
-      "isVip": false
-    },
-    {
-      "thumb": "Frame206.png",
-      "image": "Frame206.png",
-      "isVip": false
-    },{
-        "thumb": "Frame228.png",
-        "image": "Frame228.png",
-        "isVip": false
-      },
-      {
-        "thumb": "Frame288.png",
-        "image": "Frame288.png",
-        "isVip": false
-      },
-      {
-        "thumb": "Frame68.png",
-        "image": "Frame68.png",
-        "isVip": false
-      },
-      {
-        "thumb": "Frame4.png",
-        "image": "Frame4.png",
-        "isVip": false
-      }
+  },
+  {
+    "thumb": "pet13.png",
+    "image": "pet13.png",
+    "isVip": false
+  },
+  {
+    "thumb": "merrychristmas14.png",
+    "image": "merrychristmas14.png",
+    "isVip": false
+  },
+  {
+    "thumb": "pet19.png",
+    "image": "pet19.png",
+    "isVip": false
+  },
+  {
+    "thumb": "vintage6.png",
+    "image": "vintage6.png",
+    "isVip": false
+  },
+  {
+    "thumb": "ocean4.png",
+    "image": "ocean4.png",
+    "isVip": false
+  },
+  {
+    "thumb": "ocean16.png",
+    "image": "ocean16.png",
+    "isVip": false
+  },
+  {
+    "thumb": "fire9.png",
+    "image": "fire9.png",
+    "isVip": false
+  }
 ]

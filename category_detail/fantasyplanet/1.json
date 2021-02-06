@@ -1,97 +1,103 @@
 [
   {
-    "thumb": "Frame92.png",
-    "image": "Frame92.png",
+    "thumb": "fantasyplanet1.png",
+    "image": "fantasyplanet1.png",
     "isVip": true
   },
   {
-    "thumb": "Frame94.png",
-    "image": "Frame94.png",
+    "thumb": "fantasyplanet2.png",
+    "image": "fantasyplanet2.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet3.png",
+    "image": "fantasyplanet3.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet4.png",
+    "image": "fantasyplanet4.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet5.png",
+    "image": "fantasyplanet5.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet6.png",
+    "image": "fantasyplanet6.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet7.png",
+    "image": "fantasyplanet7.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet8.png",
+    "image": "fantasyplanet8.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet9.png",
+    "image": "fantasyplanet9.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet10.png",
+    "image": "fantasyplanet10.png",
     "isVip": false
   },
   {
-    "thumb": "Frame95.png",
-    "image": "Frame95.png",
+    "thumb": "fantasyplanet11.png",
+    "image": "fantasyplanet11.png",
     "isVip": true
   },
   {
-    "thumb": "Frame96.png",
-    "image": "Frame96.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame97.png",
-    "image": "Frame97.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame98.png",
-    "image": "Frame98.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame99.png",
-    "image": "Frame99.png",
+    "thumb": "fantasyplanet12.png",
+    "image": "fantasyplanet12.png",
     "isVip": false
   },
   {
-    "thumb": "Frame100.png",
-    "image": "Frame100.png",
+    "thumb": "fantasyplanet13.png",
+    "image": "fantasyplanet13.png",
     "isVip": true
   },
   {
-    "thumb": "Frame101.png",
-    "image": "Frame101.png",
+    "thumb": "fantasyplanet14.png",
+    "image": "fantasyplanet14.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet15.png",
+    "image": "fantasyplanet15.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet16.png",
+    "image": "fantasyplanet16.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet17.png",
+    "image": "fantasyplanet17.png",
+    "isVip": true
+  },
+  {
+    "thumb": "fantasyplanet18.png",
+    "image": "fantasyplanet18.png",
     "isVip": false
   },
   {
-    "thumb": "Frame102.png",
-    "image": "Frame102.png",
+    "thumb": "fantasyplanet19.png",
+    "image": "fantasyplanet19.png",
     "isVip": true
   },
   {
-    "thumb": "Frame103.png",
-    "image": "Frame103.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame112.png",
-    "image": "Frame112.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame105.png",
-    "image": "Frame105.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame106.png",
-    "image": "Frame106.png",
-    "isVip": false
-  },
-  {
-    "thumb": "Frame107.png",
-    "image": "Frame107.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame108.png",
-    "image": "Frame108.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame109.png",
-    "image": "Frame109.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame110.png",
-    "image": "Frame110.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame111.png",
-    "image": "Frame111.png",
+    "thumb": "fantasyplanet20.png",
+    "image": "fantasyplanet20.png",
     "isVip": true
   }
+
 ]

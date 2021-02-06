@@ -1,102 +1,103 @@
 [
   {
-    "thumb": "Frame1.png",
-    "image": "Frame1.png",
+    "thumb": "astronaut1.png",
+    "image": "astronaut1.png",
     "isVip": true
   },
   {
-    "thumb": "Frame3.png",
-    "image": "Frame3.png",
+    "thumb": "astronaut2.png",
+    "image": "astronaut2.png",
     "isVip": false
   },
   {
-    "thumb": "Frame4.png",
-    "image": "Frame4.png",
+    "thumb": "astronaut3.png",
+    "image": "astronaut3.png",
     "isVip": true
   },
   {
-    "thumb": "Frame5.png",
-    "image": "Frame5.png",
+    "thumb": "astronaut4.png",
+    "image": "astronaut4.png",
     "isVip": true
   },
   {
-    "thumb": "Frame6.png",
-    "image": "Frame6.png",
+    "thumb": "astronaut5.png",
+    "image": "astronaut5.png",
     "isVip": true
   },
   {
-    "thumb": "Frame7.png",
-    "image": "Frame7.png",
+    "thumb": "astronaut6.png",
+    "image": "astronaut6.png",
     "isVip": true
   },
   {
-    "thumb": "Frame8.png",
-    "image": "Frame8.png",
+    "thumb": "astronaut7.png",
+    "image": "astronaut7.png",
     "isVip": true
   },
   {
-    "thumb": "Frame9.png",
-    "image": "Frame9.png",
+    "thumb": "astronaut8.png",
+    "image": "astronaut8.png",
     "isVip": true
   },
   {
-    "thumb": "Frame10.png",
-    "image": "Frame10.png",
+    "thumb": "astronaut9.png",
+    "image": "astronaut9.png",
     "isVip": true
   },
   {
-    "thumb": "Frame11.png",
-    "image": "Frame11.png",
+    "thumb": "astronaut10.png",
+    "image": "astronaut10.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut11.png",
+    "image": "astronaut11.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut12.png",
+    "image": "astronaut12.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut13.png",
+    "image": "astronaut13.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut14.png",
+    "image": "astronaut14.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut15.png",
+    "image": "astronaut15.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut16.png",
+    "image": "astronaut16.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut17.png",
+    "image": "astronaut17.png",
+    "isVip": true
+  },
+  {
+    "thumb": "astronaut18.png",
+    "image": "astronaut18.png",
     "isVip": false
   },
   {
-    "thumb": "Frame12.png",
-    "image": "Frame12.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame13.png",
-    "image": "Frame13.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame14.png",
-    "image": "Frame14.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame15.png",
-    "image": "Frame15.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame16.png",
-    "image": "Frame16.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame17.png",
-    "image": "Frame17.png",
+    "thumb": "astronaut19.png",
+    "image": "astronaut19.png",
     "isVip": false
   },
   {
-    "thumb": "Frame18.png",
-    "image": "Frame18.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame19.png",
-    "image": "Frame19.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame20.png",
-    "image": "Frame20.png",
-    "isVip": true
-  },
-  {
-    "thumb": "Frame21.png",
-    "image": "Frame21.png",
+    "thumb": "astronaut20.png",
+    "image": "astronaut20.png",
     "isVip": true
   }
+
 ]

@@ -1,152 +1,153 @@
 [
   {
-    "thumb": "Frame2832.png",
-    "image": "Frame2832.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2852.png",
-    "image": "Frame2852.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2872.png",
-    "image": "Frame2872.png",
+    "thumb": "blue1.png",
+    "image": "blue1.png",
     "isVip": true
   },
   {
-    "thumb": "Frame2892.png",
-    "image": "Frame2892.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2912.png",
-    "image": "Frame2912.png",
+    "thumb": "blue2.png",
+    "image": "blue2.png",
     "isVip": true
   },
   {
-    "thumb": "Frame2932.png",
-    "image": "Frame2932.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2952.png",
-    "image": "Frame2952.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2972.png",
-    "image": "Frame2972.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame2992.png",
-    "image": "Frame2992.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame3012.png",
-    "image": "Frame3012.png",
+    "thumb": "blue3.png",
+    "image": "blue3.png",
     "isVip": true
   },
   {
-    "thumb": "Frame3032.png",
-    "image": "Frame3032.png",
-    "isVip": 1000
-  },
-  {
-    "thumb": "Frame3052.png",
-    "image": "Frame3052.png",
+    "thumb": "blue4.png",
+    "image": "blue4.png",
     "isVip": true
   },
   {
-    "thumb": "Frame3072.png",
-    "image": "Frame3072.png",
-    "isVip": 1000
+    "thumb": "blue5.png",
+    "image": "blue5.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3092.png",
-    "image": "Frame3092.png",
-    "isVip": 1000
+    "thumb": "blue6.png",
+    "image": "blue6.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3112.png",
-    "image": "Frame3112.png",
-    "isVip": 1000
+    "thumb": "blue7.png",
+    "image": "blue7.png",
+    "isVip": false
   },
   {
-    "thumb": "Frame3132.png",
-    "image": "Frame3132.png",
-    "isVip": 1000
+    "thumb": "blue8.png",
+    "image": "blue8.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3152.png",
-    "image": "Frame3152.png",
-    "isVip": 1000
+    "thumb": "blue9.png",
+    "image": "blue9.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3172.png",
-    "image": "Frame3172.png",
-    "isVip": 1000
+    "thumb": "blue10.png",
+    "image": "blue10.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3192.png",
-    "image": "Frame3192.png",
-    "isVip": 1000
+    "thumb": "blue11.png",
+    "image": "blue11.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3212.png",
-    "image": "Frame3212.png",
-    "isVip": 1000
+    "thumb": "blue12.png",
+    "image": "blue12.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3232.png",
-    "image": "Frame3232.png",
-    "isVip": 1000
+    "thumb": "blue13.png",
+    "image": "blue13.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3252.png",
-    "image": "Frame3252.png",
-    "isVip": 1000
+    "thumb": "blue14.png",
+    "image": "blue14.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3272.png",
-    "image": "Frame3272.png",
-    "isVip": 1000
+    "thumb": "blue15.png",
+    "image": "blue15.png",
+    "isVip": false
   },
   {
-    "thumb": "Frame3292.png",
-    "image": "Frame3292.png",
-    "isVip": 1000
+    "thumb": "blue16.png",
+    "image": "blue16.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3312.png",
-    "image": "Frame3312.png",
-    "isVip": 1000
+    "thumb": "blue17.png",
+    "image": "blue17.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3332.png",
-    "image": "Frame3332.png",
-    "isVip": 1000
+    "thumb": "blue18.png",
+    "image": "blue18.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3352.png",
-    "image": "Frame3352.png",
-    "isVip": 1000
+    "thumb": "blue19.png",
+    "image": "blue19.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3372.png",
-    "image": "Frame3372.png",
-    "isVip": 1000
+    "thumb": "blue20.png",
+    "image": "blue20.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3392.png",
-    "image": "Frame3392.png",
-    "isVip": 1000
+    "thumb": "blue21.png",
+    "image": "blue21.png",
+    "isVip": true
   },
   {
-    "thumb": "Frame3412.png",
-    "image": "Frame3412.png",
-    "isVip": 1000
+    "thumb": "blue22.png",
+    "image": "blue22.png",
+    "isVip": true
+  },
+  {
+    "thumb": "blue23.png",
+    "image": "blue23.png",
+    "isVip": true
+  },
+  {
+    "thumb": "blue24.png",
+    "image": "blue24.png",
+    "isVip": false
+  },
+  {
+    "thumb": "blue25.png",
+    "image": "blue25.png",
+    "isVip": false
+  },
+  {
+    "thumb": "blue26.png",
+    "image": "blue26.png",
+    "isVip": true
+  },
+  {
+    "thumb": "blue27.png",
+    "image": "blue27.png",
+    "isVip": false
+  },
+  {
+    "thumb": "blue28.png",
+    "image": "blue28.png",
+    "isVip": true
+  },
+  {
+    "thumb": "blue29.png",
+    "image": "blue29.png",
+    "isVip": true
+  },
+  {
+    "thumb": "blue30.png",
+    "image": "blue30.png",
+    "isVip": true
   }
+
 ]
