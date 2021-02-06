@@ -2454,7 +2454,8 @@
           },
           {
             "thumb": "space19.png",
-            "image": "space19.png"
+            "image": "space19.png",
+            "isVip": true
           }
         ]
       },
